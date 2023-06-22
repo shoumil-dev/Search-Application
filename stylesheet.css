@@ -23,3 +23,14 @@
         width: 80%;
     }
 }
+
+a {
+    text-align: right;
+    float: right;
+    margin-left: 0.5em;
+    margin-top: 1em;
+}
+
+#navbar {
+    margin-right: 1em;
+}
