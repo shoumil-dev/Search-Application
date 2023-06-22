@@ -7,8 +7,9 @@
     border-radius: 2px;
 }
 
-#search_div {
-    width: 100%;
+#advanced_submit:hover {
+    background-color: #aecbfa;
+    border-color: #aecbfa;
 }
 
 @media (min-width: 601px) {
